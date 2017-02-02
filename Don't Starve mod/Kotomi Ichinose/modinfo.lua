@@ -5,8 +5,8 @@ author = "Star Cluster"
 version = "Public preview version"
 
 -- This lets other players know if your mod is out of date, update it to match the current version in the game
-api_version = "um......I don't know..."
-api_version_dst = "↑↑↑"
+api_version = 6         --"um......I don't know..."
+api_version_dst = 10    --"↑↑↑"
 
 -- Compatible with the base game, RoG, SW, and DST
 dont_starve_compatible = true
@@ -18,8 +18,8 @@ dst_compatible = true
 restart_required = false
 
 -- Can specify a custom icon for this mod!
-icon_atlas = ""
-icon = ""
+icon_atlas = "test.xml"
+icon = "test.tex"
 
 -- Specify the priority
 priority=-1
