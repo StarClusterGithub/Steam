@@ -26,7 +26,7 @@ reign_of_giants_compatible = true
 restart_required = false
 
 -- Set this to true to prevent _ANY_ other mods from loading while this mod is enabled.
-standalone = true
+standalone = false
 
 icon_atlas = "test.xml"
 icon = "test.tex"
