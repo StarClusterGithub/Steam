@@ -24,16 +24,17 @@ reign_of_giants_compatible = true
 shipwrecked_compatible = true
 dst_compatible = true
 
+-- Specify the priority
+--priority=-1
+
 --Some mods may crash or not work correctly until the game is restarted after the mod is enabled/disabled
 restart_required = false
 
 -- Set this to true to prevent _ANY_ other mods from loading while this mod is enabled.
 standalone = false
 
-icon_atlas = "test.xml"
-icon = "test.tex"
+-- icon
+icon_atlas = "preview.xml"
+icon = "preview.tex"
 
 forumthread = ""
-
--- Specify the priority
---priority=-1
