@@ -1,4 +1,6 @@
--- This information tells other players more about the mod
+--[=[
+--[=[    This information tells other players more about the mod
+--]=]
 
 
 --The name of the mod displayed in the 'mods' screen.
@@ -19,8 +21,8 @@ api_version = 6
 -- Compatible with both the base game and reign of giants
 dont_starve_compatible = true
 reign_of_giants_compatible = true
---shipwrecked_compatible = true
---dst_compatible = true
+shipwrecked_compatible = true
+dst_compatible = true
 
 --Some mods may crash or not work correctly until the game is restarted after the mod is enabled/disabled
 restart_required = false
