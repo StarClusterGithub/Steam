@@ -37,4 +37,21 @@ standalone = false
 icon_atlas = "preview.xml"
 icon = "preview.tex"
 
+-- This is the URL name of the mod's thread on the forum; the part after the ? and before the first & in the url
+-- Sample: http://forums.kleientertainment.com/index.php?files/file/950-extended-sample-character
 forumthread = ""
+
+-----------------------------------------------configure mod-----------------------------------------------
+configuration_options = 
+{
+    {
+        name = "demo",
+        label = "label",
+        options = 
+        {
+            {description = "select1",data = "1"},
+            {description = "select2",data = "2"}
+        },
+        default = "1"
+    }
+}
