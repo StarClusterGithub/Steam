@@ -50,8 +50,8 @@ configuration_options =
         options = 
         {
             {description = "select1",data = "1"},
-            {description = "select2",data = "2"}
+            {description = "select2",data = "2"},
         },
-        default = "1"
+        default = "1",
     }
 }
