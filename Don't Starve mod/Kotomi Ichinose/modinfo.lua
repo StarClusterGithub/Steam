@@ -34,11 +34,10 @@ restart_required = false
 standalone = false
 
 -- icon
-icon_atlas = "preview.xml"
-icon = "preview.tex"
+icon_atlas = "modicon.xml"
+icon = "modicon.tex"
 
 -- This is the URL name of the mod's thread on the forum; the part after the ? and before the first & in the url
--- Sample: http://forums.kleientertainment.com/index.php?files/file/950-extended-sample-character
 forumthread = ""
 
 -----------------------------------------------configure mod-----------------------------------------------
