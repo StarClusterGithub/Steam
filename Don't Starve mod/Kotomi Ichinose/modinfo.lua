@@ -52,5 +52,15 @@ configuration_options =
             {description = "select2",data = "2"},
         },
         default = "1",
+    }  
+    {
+        name = "demo",
+        label = "label2",
+        options = 
+        {
+            {description = "select1",data = "1"},
+            {description = "select2",data = "2"},
+        },
+        default = "2",
     }
 }
