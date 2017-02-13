@@ -3,7 +3,6 @@ local MakePlayerCharacter = require "prefabs/player_common"
 
 
 local assets = {
-
         Asset( "ANIM", "anim/player_basic.zip" ),
         Asset( "ANIM", "anim/player_idles_shiver.zip" ),
         Asset( "ANIM", "anim/player_actions.zip" ),
