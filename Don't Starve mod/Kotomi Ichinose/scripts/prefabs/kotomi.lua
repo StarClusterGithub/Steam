@@ -2,7 +2,8 @@
 local MakePlayerCharacter = require "prefabs/player_common"
 
 
-local assets = {
+local assets = 
+{
         Asset( "ANIM", "anim/player_basic.zip" ),
         Asset( "ANIM", "anim/player_idles_shiver.zip" ),
         Asset( "ANIM", "anim/player_actions.zip" ),
@@ -34,7 +35,8 @@ local assets = {
         Asset( "ANIM", "anim/kotomi.zip" ),
 }
 local prefabs = {}
-local start_inv = {
+local start_inv = 
+{
 	-- Custom starting items
     "panflute",
 }
