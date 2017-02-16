@@ -1,8 +1,10 @@
-PrefabFiles = {
+PrefabFiles = 
+{
 	"kotomi",
 }
 
-Assets = {
+Assets = 
+{
     Asset( "IMAGE", "images/saveslot_portraits/kotomi.tex" ),
     Asset( "ATLAS", "images/saveslot_portraits/kotomi.xml" ),
 
