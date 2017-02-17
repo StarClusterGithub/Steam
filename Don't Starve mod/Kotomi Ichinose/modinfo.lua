@@ -52,7 +52,7 @@ configuration_options =
             {description = "select2",data = "2"},
         },
         default = "1",
-    }  
+    },
     {
         name = "demo",
         label = "label2",
